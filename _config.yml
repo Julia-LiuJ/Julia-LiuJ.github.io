@@ -25,8 +25,8 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Julia # add your name
-author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+author-pic: Myself.jpg
+about-author: "记录所思所想"
 
 # Contact links
 email: armando.maynez@gmail.com # Add your Email address
